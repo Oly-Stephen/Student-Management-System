@@ -1,0 +1,20 @@
+{
+    "firstName": "Oly",
+    "lastName": "Stephen",
+    "age": 21,
+    "email": "oly@gmail.com"
+}
+
+{
+    "firstName": "Micheal",
+    "lastName": "prof",
+    "age": 17,
+    "email": "prof@gmail.com"
+}
+
+{
+    "firstName": "Faith",
+    "lastName": "kelvin",
+    "age": 24,
+    "email": "faith@gmail.com"
+}
